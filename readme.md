@@ -63,3 +63,5 @@ B4: Chạy App
 streamlit run app.py
 
 Chúc bạn năng suất và tối ưu thời gian của chính mình!!!
+
+## CẢNH BÁO: INSIGHT AGENT ĐƯỢC TẠO ĐỂ CHẠY TRÊN WINDOW, NẾU BẠN SỬ DỤNG MAC HOẶC LINUX SẼ KHÔNG SỬ DỤNG ĐƯỢC ỨNG DỤNG NÀY HOÀN CHỈNH
